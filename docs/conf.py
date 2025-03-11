@@ -16,7 +16,7 @@ version = '0.0.1'
 # -- General configuration
 myst_enable_extensions = ["amsmath", "dollarmath"]
 extensions = [
-  'myst_parser',
+  # 'myst_parser',
   'sphinx.ext.duration',
   'sphinx.ext.doctest',
   'sphinx.ext.napoleon',
